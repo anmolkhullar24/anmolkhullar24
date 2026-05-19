@@ -239,7 +239,7 @@ Passionate about:
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolkhullar24&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolkhullar24&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolkhullar24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
