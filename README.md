@@ -174,7 +174,7 @@ Passionate about:
 
 - **Microsoft Technology Associate (MTA)** — Microsoft  
   📅 Issued: April 2019  
-  🆔 Credential ID: `ADD_CREDENTIAL_ID_HERE`
+  🆔 Credential ID: `8AbN-uSHL`
 
 ---
 
@@ -184,7 +184,7 @@ Passionate about:
 
 - **Machine Learning With Python** — Foxmula - The Smart Way  
   📅 Issued: February 2019  
-  🔗 Credential Verification Available
+  🆔 Credential ID: `CQwrbwg5Y`
 
 ---
 
@@ -193,7 +193,7 @@ Passionate about:
 </a>
 
 - **Responsive Website Basics: Code with HTML, CSS, and JavaScript** — Coursera  
-  🆔 Credential ID: `ADD_CREDENTIAL_ID_HERE`
+  🆔 Credential ID: `DRLWPBKCZL6S`
 
 ---
 
@@ -202,7 +202,7 @@ Passionate about:
 </a>
 
 - **SnowPro Core Certified** — Snowflake  
-  🆔 Credential ID: `ADD_CREDENTIAL_ID_HERE`
+  🆔 Credential ID: `S119991-251129-COF`
 
 ---
 
@@ -211,7 +211,7 @@ Passionate about:
 </a>
 
 - **Algorithmic Trading & Quantitative Analysis Using Python**  
-  🆔 Credential ID: `ADD_CREDENTIAL_ID_HERE`
+  🆔 Credential ID: `UC-c6608859-5172-4464-ba32-8d0b4798f923`
 
 ---
 
@@ -220,16 +220,22 @@ Passionate about:
 </a>
 
 - **Network Security & Database Vulnerabilities**  
-  🆔 Credential ID: `ADD_CREDENTIAL_ID_HERE`
+  🆔 Credential ID: `53FTJN4B38HW`
 
 ---
+
+Cybersecurity Roles, Processes & Operating system Security
+  🆔 Credential ID: '8YZCHV4BNJ7X'
+
+Cybersecurity Compliance Framework & System Administration
+  🆔 Credential ID: 'YJC8BFAC6BBL'
 
 <a href="https://www.coursera.org/">
   <img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity%20Tools%20%26%20Cyber%20Attacks-Cybersecurity-darkred?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </a>
 
 - **Introduction to Cybersecurity Tools & Cyber Attacks**  
-  🆔 Credential ID: `ADD_CREDENTIAL_ID_HERE`
+  🆔 Credential ID: `25KMK76M95L5`
 
 ---
 
