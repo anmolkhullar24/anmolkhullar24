@@ -22,40 +22,27 @@
 
 ---
 
+
 # 💻 About Me
 
-```python
-class AnmolKhullar:
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-    def __init__(self):
+Experienced Data Engineer with expertise in building scalable ETL pipelines, enterprise data migration solutions, and cloud-native data platforms.
 
-        self.name = "Anmol Khullar"
-        self.role = "Experienced Data Engineer"
-        self.company = "Amdocs"
-        self.location = "Gurugram, India"
+Currently working at **Amdocs**, focusing on:
+- Snowflake Data Warehousing
+- Databricks & PySpark Processing
+- Azure Cloud Data Engineering
+- Enterprise ETL Modernization
+- Workflow Automation
 
-        self.skills = {
-            "Cloud": ["Azure", "Snowflake", "Databricks"],
-            "Languages": ["Python", "SQL", "PySpark", "Shell Scripting"],
-            "Databases": ["Snowflake", "Teradata", "Oracle"],
-            "ETL_Tools": ["Infoworks", "DataStage"],
-            "Orchestration": ["TWS"],
-            "AI_ML": ["TensorFlow", "Keras"]
-        }
+Strong experience in:
+- Teradata → Snowflake migration
+- Mainframe → Snowflake migration
+- Oracle → Snowflake migration
+- DataStage → Databricks migration
 
-    def expertise(self):
-
-        return [
-            "ETL Pipeline Development",
-            "Data Warehousing",
-            "Cloud Data Engineering",
-            "Data Migration",
-            "Workflow Automation",
-            "Big Data Processing"
-        ]
-```
-
----
+Passionate about building reliable, scalable, and high-performance data systems for modern enterprises.
 
 # 🚀 Professional Summary
 
